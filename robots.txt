@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vesusoce.github.io/sitemap.html.gz
+Sitemap: https://vesusoce.github.io/app/sitemap.html.gz
+Sitemap: https://vesusoce.github.io/assets/sitemap.html.gz
+Sitemap: https://vesusoce.github.io/css/sitemap.html.gz
+Sitemap: https://vesusoce.github.io/includes/sitemap.html.gz
+Sitemap: https://vesusoce.github.io/item/sitemap.html.gz
+Sitemap: https://vesusoce.github.io/src/sitemap.html.gz
